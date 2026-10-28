@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.log
+banner_test.txt
+results.txt
+scan_results.txt
+test.txt
+test2.txt
+web_test.txt
